@@ -12,6 +12,6 @@ You have to build your project with Xcworkspace instead of Xcproject file and th
 
 I write a shell script that does build and export IPA file (if the build was succeeding)
 
-Prequesit:
+Prerequisites:
 1) Install Xcode 9.X with command line tools.
 2) Make/define Plist file like this tutorial.
